@@ -35,15 +35,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshvardhanrawat&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshvardhanrawat&theme=github-dark-blue" height="150" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
