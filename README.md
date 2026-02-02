@@ -40,7 +40,7 @@
   <a href="https://www.harshvardhanrawat.dev" target="_blank"><img src="https://img.shields.io/badge/Website-%230A0A0A.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="https://linkedin.com/in/harshvardhan-rawat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/HarshvardhanRaw" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://instagram.com/_harsh598" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/rawwithharsh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
