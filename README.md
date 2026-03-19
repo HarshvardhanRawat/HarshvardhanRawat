@@ -1,63 +1,63 @@
-<!-- GitHub Profile README for HarshvardhanRawat -->
-
-<h1 align="center">Hi!, I'm Harshvardhan Rawat</h1>
-
----
-
-## 🧑‍💻 About Me
-
-🎓 Incoming CS Undergrad   
-💡 Currently learning: `C++`, `Web Development`, `DSA`  
-🛠️ My [portfolio website](https://harshvardhanrawat.dev)  
-📸 Passionate about: Photography | Building digital experiences |
-✍️ Writing code like art and telling stories through visuals  
+<h1 align="center">Hey 👋, I'm Harshvardhan</h1>
+<h3 align="center">Building things that make life simpler 🚀</h3>
 
 ---
 
-## 🔧 Tech Stack
-
-### 💻 Languages & Tools  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-
-### 🎥 Creative Stack  
-![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![Canon](https://img.shields.io/badge/-Canon-E60026?style=for-the-badge&logo=canon&logoColor=white)
+### 🧑‍💻 About Me
+- 🎓 College student passionate about **development & real-world problem solving**
+- 🗺️ Currently building: **UNIMAP** – Smart campus navigation system
+- 💡 Interested in **Full Stack Development, UI/UX & AI integration**
+- 📸 Photographer who loves capturing moments
+- 🎯 Targeting product-based companies (Google, Microsoft, Adobe…)
 
 ---
 
-## 🌐 Connect with Me
+### 🚀 Projects
+- 🧭 **UNIMAP**  
+  Smart multi-floor navigation system for college campuses  
+  → Search rooms, get directions, smooth UI experience  
 
-<p align="left">
-  <a href="https://www.harshvardhanrawat.dev" target="_blank"><img src="https://img.shields.io/badge/Website-%230A0A0A.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/harshvardhan-rawat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/HarshvardhanRaw" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://instagram.com/rawwithharsh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+- 🏠 **Airbnb Clone (Expo Project)**  
+  Full-stack project with real-world use case  
+
+---
+
+### 🛠️ Tech Stack
+- 💻 Frontend: HTML, CSS, JavaScript  
+- ⚙️ Backend: Node.js, Express  
+- 🗄️ Database: MongoDB  
+- 🔧 Tools: Git, GitHub, VS Code  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshvardhanRawat&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshvardhanRawat&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧭 Roadmap (2025)
-
-- ✅ Launched portfolio site `harshvardhanrawat.dev`
-- 🔭 Build aesthetic projects (Dev + Visuals)
-- 🎯 Win a hackathon by 2nd year
-- 🧠 Master core DSA in C++
-- 🧩 Improve communication & leadership
-- 💼 Land a dream internship (from 3rd year)
-- 🧩 Explore AI creatively
+### 🌱 Currently Learning
+- Advanced Full Stack Concepts  
+- System Design Basics  
+- Improving UI/UX & scalability  
 
 ---
 
-## ✨ Fun Fact
+### 🎯 2026 Goals
+- 🚀 Ship impactful projects  
+- 💼 Crack a top product-based company  
+- 📈 Level up problem-solving skills  
 
-> "I capture moments and code futures."
+---
 
+### 🤝 Connect With Me
+- 📸 Instagram: rawwithharsh  
+- 💼 LinkedIn: linkein.com/in/Harshvardhan-Rawat  
+- 🐦 Twitter: HarshvardhanRaw
+
+---
+
+### ⚡ Fun Fact
+I build projects seriously… but also go with the flow 😄
