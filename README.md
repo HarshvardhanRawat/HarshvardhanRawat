@@ -1,6 +1,15 @@
+<!-- ======================= -->
+<!--        BANNER          -->
+<!-- Replace banner.png inside /assets folder -->
+<!-- ======================= -->
+
 <a href="https://github.com/HarshvardhanRawat">
   <img src="./assets/banner.png" width="100%" alt="HARSH Banner"/>
 </a>
+
+<!-- ======================= -->
+<!--      TOP BADGES        -->
+<!-- ======================= -->
 
 <div align="center">
   <a href="https://github.com/HarshvardhanRawat?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://img.shields.io/github/stars/HarshvardhanRawat?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=" /></a>
@@ -11,6 +20,11 @@
 </div>
 
 <br>
+
+<!-- ======================= -->
+<!--      ABOUT SECTION     -->
+<!-- Replace left image if needed -->
+<!-- ======================= -->
 
 <div align="center">
   <h2>Know About Me</h2>
@@ -31,6 +45,11 @@ Beyond coding, I explore creativity through photography and storytelling. I enjo
 
 <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 
+<!-- ======================= -->
+<!--    PROJECTS SECTION    -->
+<!-- Replace project links -->
+<!-- ======================= -->
+
 <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170" align="right" style="margin-left: 15px;">
 
 <h3>Featured Projects</h3>
@@ -47,6 +66,10 @@ Beyond coding, I explore creativity through photography and storytelling. I enjo
 <br clear="left"/>
 <br clear="right"/>
 
+<!-- ======================= -->
+<!--     SOCIAL SECTION     -->
+<!-- ======================= -->
+
 <div align="center">
   <img src="https://i.postimg.cc/TYF27Fn7/Whats-App-Image-2026-03-05-at-11-02-19-PM.jpg" width="100%"">
   <br>
@@ -61,6 +84,10 @@ Beyond coding, I explore creativity through photography and storytelling. I enjo
 
 <br>
 
+<!-- ======================= -->
+<!--         QUOTES         -->
+<!-- ======================= -->
+
 > Clean code. Cinematic experiences. Memorable products.
 
 > I don't just build interfaces — I build experiences that feel smooth, intentional, and alive.
@@ -68,11 +95,19 @@ Beyond coding, I explore creativity through photography and storytelling. I enjo
 <br clear="right"/>
 <br>
 
+<!-- ======================= -->
+<!--     DIVIDER IMAGE      -->
+<!-- ======================= -->
+
 <div align="center">
   <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
 
   <br>
 </div>
+
+<!-- ======================= -->
+<!--     SNAKE ANIMATION    -->
+<!-- ======================= -->
 
 <div align="center">
   <p align="center">
@@ -82,23 +117,10 @@ Beyond coding, I explore creativity through photography and storytelling. I enjo
 
 <br><br>
 
-<div align="center">
-  <img src="https://i.postimg.cc/8PmQWYw9/Whats-App-Image-2026-03-05-at-11-05-19-PM-(1).jpg" width="100%">
-  <br>
-  <br>
-  <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshvardhanRawat&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshvardhanRawat&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=333333"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=HarshvardhanRawat&theme=dark&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=333333"/>
-
-</div>
-
-<br>
+<!-- ======================= -->
+<!--       FOOTER           -->
+<!-- ======================= -->
 
 <div align="center">
 
