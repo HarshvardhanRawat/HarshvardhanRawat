@@ -2,20 +2,6 @@
   <img src="./assets/banner.png" width="100%" alt="HARSH Banner"/>
 </a>
 
-<div align="center">
-  <a href="https://github.com/HarshvardhanRawat?tab=repositories">
-    <img alt="Stars" title="Stars Profile" src="https://img.shields.io/github/stars/HarshvardhanRawat?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/HarshvardhanRawat?tab=repositories">
-    <img alt="Forks" title="Forks Repository" src="https://img.shields.io/github/forks/HarshvardhanRawat/HarshvardhanRawat?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/HarshvardhanRawat?tab=followers">
-    <img alt="Followers" title="Github Followers" src="https://img.shields.io/github/followers/HarshvardhanRawat?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white" />
-  </a>
-</div>
-
 <br>
 
 <div align="center">
@@ -61,11 +47,6 @@ Beyond coding, I explore creativity through content creation and photography. I 
 
 <br clear="left"/>
 <br clear="right"/>
-
-<div align="center">
-  <img src="./assets/divider1.jpg" width="100%">
-  <br>
-  <br>
 
   <a href="https://github.com/HarshvardhanRawat">
     <img src="https://i.postimg.cc/TYF27Fn7/Whats-App-Image-2026-03-05-at-11-02-19-PM.jpg" width="100%"">
