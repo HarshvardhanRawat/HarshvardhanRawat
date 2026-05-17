@@ -136,4 +136,5 @@ Beyond development, I explore creativity through content creation and photograph
 <i>"Great products aren't just built. They're crafted."</i>
 
 </div>
+```
 
