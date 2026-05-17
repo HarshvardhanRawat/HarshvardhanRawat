@@ -26,7 +26,7 @@
 
 ## About Me
 
-js
+```js
 const harsh = {
     role: "Full Stack Developer",
     stack: ["MongoDB", "Express", "React", "Node.js"],
@@ -99,26 +99,6 @@ Beyond development, I explore creativity through content creation and photograph
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshvardhanRawat&show_icons=true&theme=transparent&title_color=F97316&text_color=ffffff&icon_color=F97316&border_color=333333"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshvardhanRawat&layout=compact&theme=transparent&title_color=F97316&text_color=ffffff&border_color=333333"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=HarshvardhanRawat&theme=dark&ring=F97316&fire=F97316&currStreakLabel=F97316&border=333333"/>
-
-</div>
-
----
-
 # Contribution Graph
 
 <div align="center">
@@ -126,15 +106,6 @@ Beyond development, I explore creativity through content creation and photograph
 <img src="https://github.com/HarshvardhanRawat/HarshvardhanRawat/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
----
-
-# Currently Working On
-
-* Building scalable MERN applications
-* Improving UI/UX & frontend motion design
-* Creating cinematic developer experiences
-* Exploring creative storytelling through content
 
 ---
 
