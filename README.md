@@ -107,17 +107,11 @@ Beyond coding, I explore creativity through content creation and photography. I 
 <br><br>
 
 <div align="center">
-  <img src="./assets/divider3.jpg" width="100%">
-  <br>
-  <br>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshvardhanRawat&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshvardhanRawat&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=333333"/>
 
-  <br><br>
-
-  <img src="https://streak-stats.demolab.com?user=HarshvardhanRawat&theme=dark&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=333333"/>
 
 </div>
 
