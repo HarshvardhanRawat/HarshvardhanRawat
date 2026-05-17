@@ -1,63 +1,168 @@
-<h1 align="center">Hey 👋, I'm Harshvardhan</h1>
-<h3 align="center">Building things that make life simpler 🚀</h3>
+<div align="center">
+
+# HARSH
+
+### Full Stack Developer • Content Creator • Photographer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Building+Cinematic+Digital+Experiences;MERN+Stack+Developer;Designing+%2B+Developing+for+the+Modern+Web;Turning+Ideas+Into+Reality" />
+
+<br>
+
+<a href="https://harshvardhanrawat.dev">
+  <img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/HarshvardhanRawat">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:harsh.r5983@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 College student passionate about **development & real-world problem solving**
-- 🗺️ Currently building: **UNIMAP** – Smart campus navigation system
-- 💡 Interested in **Full Stack Development, UI/UX & AI integration**
-- 📸 Photographer who loves capturing moments
-- 🎯 Targeting product-based companies (Google, Microsoft, Adobe…)
+## About Me
+
+js
+const harsh = {
+    role: "Full Stack Developer",
+    stack: ["MongoDB", "Express", "React", "Node.js"],
+    interests: [
+        "Web Development",
+        "Content Creation",
+        "Photography",
+        "UI/UX",
+        "Cinematic Storytelling"
+    ],
+    philosophy: "Build clean. Build meaningful. Build unforgettable."
+};
+
+I build modern web experiences with a strong focus on performance, aesthetics, and user experience.
+Passionate about creating products that feel cinematic, interactive, and alive.
+
+Beyond development, I explore creativity through content creation and photography.
+
+> Minimal design. Maximum impact.
 
 ---
 
-### 🚀 Projects
-- 🧭 **UNIMAP**  
-  Smart multi-floor navigation system for college campuses  
-  → Search rooms, get directions, smooth UI experience  
+# Tech Stack
 
-- 🏠 **Airbnb Clone (Expo Project)**  
-  Full-stack project with real-world use case  
+<div align="center">
 
----
+### Frontend
 
-### 🛠️ Tech Stack
-- 💻 Frontend: HTML, CSS, JavaScript  
-- ⚙️ Backend: Node.js, Express  
-- 🗄️ Database: MongoDB  
-- 🔧 Tools: Git, GitHub, VS Code  
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
 
----
+<br><br>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshvardhanRawat&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshvardhanRawat&theme=tokyonight" />
-</p>
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+
+<br><br>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
+
+</div>
 
 ---
 
-### 🌱 Currently Learning
-- Advanced Full Stack Concepts  
-- System Design Basics  
-- Improving UI/UX & scalability  
+# Featured Projects
+
+<div align="center">
+
+| Project         | Description                          |
+| --------------- | ------------------------------------ |
+| 🚀 Project Name | Short cinematic one-line description |
+| 🚀 Project Name | Short cinematic one-line description |
+| 🚀 Project Name | Short cinematic one-line description |
+
+</div>
+
+<br>
+
+<div align="center">
+
+### → Visit my portfolio for complete project showcases
+
+<a href="https://harshvardhanrawat.dev">
+  <img src="https://img.shields.io/badge/View%20Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### 🎯 2026 Goals
-- 🚀 Ship impactful projects  
-- 💼 Crack a top product-based company  
-- 📈 Level up problem-solving skills  
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshvardhanRawat&show_icons=true&theme=transparent&title_color=F97316&text_color=ffffff&icon_color=F97316&border_color=333333"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshvardhanRawat&layout=compact&theme=transparent&title_color=F97316&text_color=ffffff&border_color=333333"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=HarshvardhanRawat&theme=dark&ring=F97316&fire=F97316&currStreakLabel=F97316&border=333333"/>
+
+</div>
 
 ---
 
-### 🤝 Connect With Me
-- 📸 Instagram: rawwithharsh  
-- 💼 LinkedIn: linkein.com/in/Harshvardhan-Rawat  
-- 🐦 Twitter: HarshvardhanRaw
+# Contribution Graph
+
+<div align="center">
+
+<img src="https://github.com/HarshvardhanRawat/HarshvardhanRawat/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
 
 ---
 
-### ⚡ Fun Fact
-I build projects seriously… but also go with the flow 😄
+# Currently Working On
+
+* Building scalable MERN applications
+* Improving UI/UX & frontend motion design
+* Creating cinematic developer experiences
+* Exploring creative storytelling through content
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://harshvardhanrawat.dev">
+  <img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/HarshvardhanRawat">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:harsh.r5983@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### .rwt
+
+<i>"Great products aren't just built. They're crafted."</i>
+
+</div>
+
