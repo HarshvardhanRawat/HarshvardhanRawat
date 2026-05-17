@@ -111,7 +111,7 @@ Beyond coding, I explore creativity through photography and storytelling. I enjo
 
 <div align="center">
   <p align="center">
-  <img src="https://github.com/HarshvardhanRawat/HarshvardhanRawat/blob/output/github-snake-dark.svg" width="100%">
+  <img src="https://github.com/HarshvardhanRawat/HarshvardhanRawat/blob/main/workflows/snake.yml" width="100%">
 </p>
 </div>
 
