@@ -96,29 +96,6 @@ Beyond coding, I explore creativity through photography and storytelling. I enjo
 <br>
 
 <!-- ======================= -->
-<!--     DIVIDER IMAGE      -->
-<!-- ======================= -->
-
-<div align="center">
-  <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
-
-  <br>
-</div>
-
-<!-- ======================= -->
-<!--     SNAKE ANIMATION    -->
-<!-- ======================= -->
-
-<div align="center">
-  <p align="center">
-  <img src="https://github.com/HarshvardhanRawat/HarshvardhanRawat/blob/main/workflows/snake.yml" width="100%">
-</p>
-</div>
-
-<br><br>
-
-
-<!-- ======================= -->
 <!--       FOOTER           -->
 <!-- ======================= -->
 
