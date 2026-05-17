@@ -22,7 +22,7 @@
   <h2>Know About Me</h2>
 </div>
 
-<img src="./assets/character.png" width="210" align="left" style="margin-right: 15px;">
+<img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="210" align="left" style="margin-right: 15px;">
 
 <div align="justify">
   <h3>Hey there! I'm Harsh</h3>
@@ -37,7 +37,7 @@ Beyond coding, I explore creativity through content creation and photography. I 
 
 <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 
-<img src="./assets/project-character.png" width="170" align="right" style="margin-left: 15px;">
+<img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170" align="right" style="margin-left: 15px;">
 
 <h3>Featured Projects</h3>
 
@@ -68,7 +68,7 @@ Beyond coding, I explore creativity through content creation and photography. I 
   <br>
 
   <a href="https://github.com/HarshvardhanRawat">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://i.postimg.cc/TYF27Fn7/Whats-App-Image-2026-03-05-at-11-02-19-PM.jpg" width="100%"">
   </a>
 
   &nbsp;
@@ -94,13 +94,13 @@ Beyond coding, I explore creativity through content creation and photography. I 
 <br>
 
 <div align="center">
-  <img src="./assets/divider2.jpg" width="100%">
+  <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
   <br>
 </div>
 
 <div align="center">
   <p align="center">
-    <img src="https://github.com/HarshvardhanRawat/HarshvardhanRawat/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+     <img src="https://i.postimg.cc/8PmQWYw9/Whats-App-Image-2026-03-05-at-11-05-19-PM-(1).jpg" width="100%">
   </p>
 </div>
 
