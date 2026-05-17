@@ -100,16 +100,6 @@ Beyond development, I explore creativity through content creation and photograph
 
 ---
 
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github.com/HarshvardhanRawat/HarshvardhanRawat/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
 # Connect With Me
 
 <div align="center">
