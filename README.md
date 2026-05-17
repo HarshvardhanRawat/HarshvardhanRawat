@@ -39,6 +39,7 @@ const harsh = {
     ],
     philosophy: "Build clean. Build meaningful. Build unforgettable."
 };
+```
 
 I build modern web experiences with a strong focus on performance, aesthetics, and user experience.
 Passionate about creating products that feel cinematic, interactive, and alive.
@@ -136,5 +137,4 @@ Beyond development, I explore creativity through content creation and photograph
 <i>"Great products aren't just built. They're crafted."</i>
 
 </div>
-```
 
