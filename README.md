@@ -54,11 +54,11 @@ Beyond coding, I explore creativity through photography and storytelling. I enjo
 
 <h3>Featured Projects</h3>
 
-<a href="https://unimap-lemon.vercel.app/"><img src="https://img.shields.io/badge/UniMap-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; UNIMAP.<br>
+<a href="https://unimap-lemon.vercel.app/"><img src="https://img.shields.io/badge/UniMap-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Indoor Campus Navigation <br>
 
-<a href="YOUR_PROJECT_LINK"><img src="https://img.shields.io/badge/Project%20Two-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; CINEMYTH.<br>
+<a href="https://cinemyth.vercel.app/"><img src="https://img.shields.io/badge/CINEMYTH-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Social Media for Movies Fanbase<br>
 
-<a href="YOUR_PROJECT_LINK"><img src="https://img.shields.io/badge/Project%20Three-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Add your project description here.
+<a href="https://rentalmarketplace.onrender.com/"><img src="https://img.shields.io/badge/OAK&and&Stay-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Rental Marketplace
 
 <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 </div>
