@@ -58,7 +58,7 @@ Beyond coding, I explore creativity through photography and storytelling. I enjo
 
 <a href="https://cinemyth.vercel.app/"><img src="https://img.shields.io/badge/CINEMYTH-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Social Media for Movies Fanbase<br>
 
-<a href="https://rentalmarketplace.onrender.com/"><img src="https://img.shields.io/badge/OAK&and&Stay-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Rental Marketplace
+<a href="https://rentalmarketplace.onrender.com/"><img src="https://img.shields.io/badge/OAK and Stay-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Rental Marketplace
 
 <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 </div>
