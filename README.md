@@ -77,7 +77,7 @@ Beyond coding, I explore creativity through photography and storytelling. I enjo
   <br>
   <a href="https://github.com/HarshvardhanRawat"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   &nbsp;
-  <a href="https://harshvardhanrawat.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://dotrwt.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   &nbsp;
   <a href="mailto:harsh.r5983@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
